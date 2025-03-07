@@ -1,0 +1,10 @@
+{
+  "firstName": "Jane",
+  "lastName": "Doe",
+  "sex": "Female",
+  "birthday": "2001-01-01",
+  "username": "janedoe",
+  "email": "jane@dev.com",
+  "password": "123",
+  "agreed": true
+}
